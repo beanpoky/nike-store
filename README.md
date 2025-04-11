@@ -37,12 +37,12 @@
 | Material Design  | طراحی ظاهر مدرن                          |
 ---
 ## 📸 اسکرین‌شات‌ها
-### صفحه اصلی
-![Home Screen](screenshots/home_dark_en.jpg)
-### سبد خرید
-![Cart Screen](screenshots/cart_dark_en.jpg)
-### جزئیات محصول
-![Product Detail](screenshots/product_dark_fa.jpg)
+<div align="center">
+  <img src="screenshots/home_dark_en.jpg" width="30%" style="margin-right: 10px;" />
+  <img src="screenshots/cart_dark_en.jpg" width="30%" style="margin-right: 10px;" />
+  <img src="screenshots/product_dark_fa.jpg" width="30%" />
+</div>
+
 ---
 ## 🚀 نصب و اجرا
 
