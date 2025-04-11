@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">فروشگاه نایک</string>
+
+    <!-- bottom navigation -->
+    <string name="home">خانه</string>
+    <string name="cart">سبد خرید</string>
+    <string name="profile">اطلاعات کاربری</string>
+
+    <!-- common -->
+    <string name="no_internet_connection">اتصال به اینترنت برقرار نیست</string>
+    <string name="retry">تلاش دوباره</string>
+    <string name="image_not_found">تصویر یافت نشد</string>
+    <string name="favorite">مورد علاقه</string>
+    <string name="price_format">تومان</string>
+    <string name="back">برگشت</string>
+    <string name="grid">شبکه</string>
+    <string name="add">افزودن</string>
+    <string name="remove">حذف کردن</string>
+    <string name="info">اطلاعات</string>
+    <string name="unknown_error">خطای نامشخص</string>
+
+    <!-- home -->
+    <string name="search">جستجو</string>
+    <string name="latest">جدیدترین</string>
+    <string name="most_popular">محبوب‌ترین</string>
+    <string name="view_all">مشاهده همه</string>
+
+    <!-- product detail -->
+    <string name="product_description">این کتونی شدیدا برای راه رفتن و دویدن مناسب است و تقریبا هیچ فشار مخربی به پا و زانوان منتقل نمی کند</string>
+    <string name="post_comment">ثبت نظر</string>
+    <string name="user_comments">نظرات کاربران</string>
+    <string name="view_all_comments">مشاهده همه نظرات</string>
+    <string name="add_to_cart">افزودن به سبد خرید</string>
+    <string name="product_has_been_added_to_cart">محصول به سبد خرید اضافه شد</string>
+
+    <!-- product list -->
+    <string name="product_list">لیست محصولات</string>
+    <string name="sort">مرتب‌سازی</string>
+    <string name="most_expensive">گران‌ترین</string>
+    <string name="cheapest">ارزان‌ترین</string>
+
+    <!-- login & sign up -->
+    <string name="login_screen_title">ورود به حساب کاربری</string>
+    <string name="sign_up_screen_title">ایجاد حساب کاربری</string>
+    <string name="login_screen_subtitle">ایمیل و رمزعبور خود را وارد کنید</string>
+    <string name="email">ایمیل</string>
+    <string name="password">رمزعبور</string>
+    <string name="login">ورود</string>
+    <string name="dont_have_account">حساب کاربری ندارید؟</string>
+    <string name="already_registered">قبلا ثبت‌نام کردید؟</string>
+    <string name="sign_up">ثبت‌نام</string>
+
+    <!-- cart -->
+    <string name="item_removed_from_cart">آیتم از سبد خرید حذف شد</string>
+    <string name="pay">پرداخت</string>
+    <string name="count">تعداد</string>
+    <string name="remove_from_cart">حذف از سبد خرید</string>
+    <string name="purchase_detail">جزئیات خرید</string>
+    <string name="total_price">مبلغ کل خرید</string>
+    <string name="shipping_cost">هزینه ارسال</string>
+    <string name="payable_price">مبلغ قابل پرداخت</string>
+
+    <!-- empty state -->
+    <string name="login_to_your_account">وارد حساب کاربری خود شوید</string>
+    <string name="theres_nothing_to_show">هیچ خبری اینجا نیست!</string>
+
+    <!-- shipping -->
+    <string name="select_recipient_and_payment_method">انتخاب تحویل‌گیرنده و شیوه پرداخت</string>
+    <string name="online_payment">پرداخت اینترنتی</string>
+    <string name="cash_on_delivery">پرداخت در محل</string>
+    <string name="first_name">نام</string>
+    <string name="last_name">نام خانوادگی</string>
+    <string name="postal_code">کدپستی</string>
+    <string name="phone_number">شماره موبایل</string>
+    <string name="address">آدرس</string>
+    <string name="fields_must_not_be_empty">فیلدها نباید خالی باشند</string>
+
+    <!-- checkout -->
+    <string name="payment_receipt">رسید پرداخت</string>
+    <string name="return_to_home">بازگشت به صفحه اصلی</string>
+    <string name="order_history">سوابق سفارش</string>
+    <string name="order_status">وضعیت سفارش</string>
+    <string name="amount">مبلغ</string>
+    <string name="purchase_completed_successfully">خرید با موفقیت انجام شد</string>
+    <string name="purchase_failed">خرید ناموفق بود</string>
+
+    <!-- profile -->
+    <string name="guest_user">کاربر مهمان</string>
+    <string name="wishlist">لیست علاقه‌مندی‌ها</string>
+    <string name="logout">خروج از حساب کاربری</string>
+
+    <!-- favorite products -->
+    <string name="you_havent_added_any_products_to_your_wishlist_yet">هنوز محصولی به لیست علاقه‌مندی اضافه نکردی</string>
+    <string name="press_and_hold_on_the_product_to_delete_it">برای حذف محصول انگشت خود را روی آن نگه دارید</string>
+</resources>

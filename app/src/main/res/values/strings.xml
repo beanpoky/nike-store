@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Nike Store</string>
+
+    <!-- bottom navigation -->
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+
+    <!-- common -->
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="retry">Retry</string>
+    <string name="image_not_found">Image not found</string>
+    <string name="favorite">Favorite</string>
+    <string name="price_format">T</string>
+    <string name="back">Back</string>
+    <string name="grid">Grid</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="info">Info</string>
+    <string name="unknown_error">Unknown Error</string>
+
+    <!-- home -->
+    <string name="search">Search</string>
+    <string name="latest">Latest</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="view_all">View All</string>
+
+    <!-- product detail -->
+    <string name="product_description">این کتونی شدیدا برای راه رفتن و دویدن مناسب است و تقریبا هیچ فشار مخربی به پا و زانوان منتقل نمی کند</string>
+    <string name="post_comment">Post Comment</string>
+    <string name="user_comments">User Comments</string>
+    <string name="view_all_comments">View All Comments</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="product_has_been_added_to_cart">The Product has been added to the cart</string>
+
+    <!-- product list -->
+    <string name="product_list">Product List</string>
+    <string name="sort">Sort</string>
+    <string name="most_expensive">Most Expensive</string>
+    <string name="cheapest">Cheapest</string>
+
+    <!-- login & sign up -->
+    <string name="login_screen_title">Login</string>
+    <string name="sign_up_screen_title">Sign Up</string>
+    <string name="login_screen_subtitle">Enter your email and password</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="already_registered">Already registered?</string>
+    <string name="sign_up">Sign Up</string>
+
+    <!-- cart -->
+    <string name="item_removed_from_cart">Item removed from cart</string>
+    <string name="pay">Pay</string>
+    <string name="count">Count</string>
+    <string name="remove_from_cart">Remove from cart</string>
+    <string name="purchase_detail">Purchase Detail</string>
+    <string name="total_price">Total Price</string>
+    <string name="shipping_cost">Shipping Cost</string>
+    <string name="payable_price">Payable Price</string>
+
+    <!-- empty state -->
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="theres_nothing_to_show">There\'s nothing to show!</string>
+
+    <!-- shipping -->
+    <string name="select_recipient_and_payment_method">Select Recipient and Payment Method</string>
+    <string name="online_payment">Online Payment</string>
+    <string name="cash_on_delivery">Cash on Delivery</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="postal_code">Postal Code</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="fields_must_not_be_empty">Fields must not be empty</string>
+
+    <!-- checkout -->
+    <string name="payment_receipt">Payment Receipt</string>
+    <string name="return_to_home">Return to Home</string>
+    <string name="order_history">Order History</string>
+    <string name="order_status">Order Status</string>
+    <string name="amount">Amount</string>
+    <string name="purchase_completed_successfully">Purchase completed successfully</string>
+    <string name="purchase_failed">Purchase failed</string>
+
+    <!-- profile -->
+    <string name="guest_user">Guest User</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="logout">Logout</string>
+
+    <!-- favorite products -->
+    <string name="you_havent_added_any_products_to_your_wishlist_yet">You haven\'t added any products to your wishlist yet</string>
+    <string name="press_and_hold_on_the_product_to_delete_it">Press and hold on the product to delete it</string>
+</resources>
